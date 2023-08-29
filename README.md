@@ -30,9 +30,9 @@
 ### Agile Methodologies
 
 
-• <img src="https://example.com/scrum_icon.png" alt="Scrum" width="50" height="50" style="border-radius: 50%;" />
+• #### Scrum
 
-• <img src="https://example.com/kanban_icon.png" alt="Kanban" width="50" height="50" style="border-radius: 50%;" />
+• #### Kanban
 
 <br/>
 
