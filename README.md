@@ -30,15 +30,14 @@
 ### Agile Methodologies
 
 
-• Scrum
+• <img src="https://example.com/scrum_icon.png" alt="Scrum" width="50" height="50" style="border-radius: 50%;" />
 
-• Kanban
+• <img src="https://example.com/kanban_icon.png" alt="Kanban" width="50" height="50" style="border-radius: 50%;" />
 
-
-
-
+<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raphael-marques-martorella/)
+
 
 
 
