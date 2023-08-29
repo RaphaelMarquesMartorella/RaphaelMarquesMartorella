@@ -4,7 +4,7 @@
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,mysql,tailwind,next&perline=3)
 
 
-![My Skills](https://skillicons.dev/icons?i=linkedin)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]
 (https://www.linkedin.com/in/raphael-marques-martorella/)
 
 
