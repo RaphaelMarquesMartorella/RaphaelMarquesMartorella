@@ -13,8 +13,7 @@
 
 • Programming Lover ❤️
 
-![My Skills](https://skillicons.dev/icons?i=linkedin) &nbsp;&nbsp; 
-https://www.linkedin.com/in/raphael-marques-martorella/
+[linkedin]https://www.linkedin.com/in/raphael-marques-martorella/
 
 
 
