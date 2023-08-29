@@ -7,11 +7,11 @@
 ### About 
 
 
-Contact: raphael.martorella@hotmail.com
-Full Stack Web Developer
-Programming Lover ❤️
+• Contact: raphael.martorella@hotmail.com
+• Full Stack Web Developer
+• Programming Lover ❤️
 
-![My Skills](https://skillicons.dev/icons?i=linkedin): [LinkedIn](https://www.linkedin.com/in/raphael-marques-martorella/)
+![My Skills](https://skillicons.dev/icons?i=linkedin): (https://www.linkedin.com/in/raphael-marques-martorella/)
 
 
 
