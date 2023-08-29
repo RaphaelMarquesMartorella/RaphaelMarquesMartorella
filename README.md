@@ -39,6 +39,9 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raphael-marques-martorella/)
 
 
+### Work with what you love and you will never have to work a day in your life. ❤️
+
+
 
 
 
