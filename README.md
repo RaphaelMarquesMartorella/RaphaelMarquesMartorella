@@ -30,9 +30,9 @@
 ### Agile Methodologies
 
 
-• #### Scrum
+#### • Scrum
 
-• #### Kanban
+#### • Kanban
 
 <br/>
 
