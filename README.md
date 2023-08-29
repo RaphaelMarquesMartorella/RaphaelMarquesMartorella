@@ -36,6 +36,8 @@
 
 
 
+
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/raphael-marques-martorella/)
 
 
