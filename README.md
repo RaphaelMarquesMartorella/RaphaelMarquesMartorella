@@ -16,6 +16,23 @@
 [LinkedIn](https://www.linkedin.com/in/raphael-marques-martorella/)
 
 
+### Soft Skills
+
+• Proactiveness
+• Hard Work
+• Perform well under pressure
+• Work well with colleagues
+
+### Agile Methodologies
+
+• Scrum
+• Kanban
+
+
+
+
+
+
 
 
 
