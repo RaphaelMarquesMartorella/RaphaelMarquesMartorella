@@ -13,7 +13,7 @@
 
 • Programming Lover ❤️
 
-[![LinkedIn]](https://www.linkedin.com/in/raphael-marques-martorella/)
+[LinkedIn](https://www.linkedin.com/in/raphael-marques-martorella/)
 
 
 
