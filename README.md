@@ -47,6 +47,8 @@
 
 <br/> 
 
+![Snake animation](https://github.com/RaphaelMarquesMartorella/RaphaelMarquesMartorella/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
