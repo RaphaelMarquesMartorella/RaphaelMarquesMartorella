@@ -45,6 +45,11 @@
 ### Work with what you love and you will never have to work a day in your life. ❤️
 
 
+<br/> 
+
+
+![Snake animation](https://github.com/RaphaelMarquesMartorella/RaphaelMarquesMartorella/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
