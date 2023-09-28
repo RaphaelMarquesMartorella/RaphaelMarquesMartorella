@@ -7,32 +7,32 @@
 ### About 
 
 
-#### - Contact: raphael.martorella@hotmail.com
+- #### Contact: raphael.martorella@hotmail.com
 
-#### - Full Stack Web Developer
+- #### Full Stack Web Developer
 
-#### - Programming Lover ❤️
+- #### Programming Lover ❤️
 
 
 
 
 ### Soft Skills
 
-#### - Proactiveness
+- #### Proactiveness
 
-#### - Hard Work
+- #### Hard Work
 
-#### - Perform well under pressure
+- #### Perform well under pressure
 
-#### - Work well with colleagues
+- #### Work well with colleagues
 
 
 ### Agile Methodologies
 
 
-#### - Scrum
+- #### Scrum
 
-#### - Kanban
+- #### Kanban
 
 <br/>
 
