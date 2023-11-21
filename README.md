@@ -18,25 +18,6 @@
 
 
 
-
-### Soft Skills
-
-- #### Proactiveness
-
-- #### Hard Work
-
-- #### Perform well under pressure
-
-- #### Work well with colleagues
-
-
-### Agile Methodologies
-
-
-- #### Scrum
-
-- #### Kanban
-
 <br/>
 
 # 📊 GitHub Stats:
