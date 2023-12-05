@@ -12,7 +12,7 @@
 
 - #### Contact: raphael.martorella@hotmail.com
 
-- #### Full Stack Web Developer
+- #### Full Stack Developer
 
 - #### Programming Lover ❤️
 
