@@ -25,9 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelMarquesMartorella&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RaphaelMarquesMartorella&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
