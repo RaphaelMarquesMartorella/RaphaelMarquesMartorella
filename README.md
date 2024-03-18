@@ -32,10 +32,9 @@
   <picture>
     <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizamfsantos/luizamfsantos/output/github-contribution-grid-snake-dark.svg" class="source-dark">
     <source media="not all" srcset="https://raw.githubusercontent.com/luizamfsantos/luizamfsantos/output/github-contribution-grid-snake.svg" class="source-light">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizamfsantos/luizamfsantos/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%; filter: hue-rotate(120deg);">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizamfsantos/luizamfsantos/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%; filter: invert(1);">  
   </picture>
 </themed-picture>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RaphaelMarquesMartorella&icon=0&color=0)](https://visitcount.itsvg.in)
